@@ -1,0 +1,236 @@
+
+body {
+
+    /* font-family: 'Raleway', sans-serif; */
+font-family: 'Roboto', sans-serif;
+color: #757575;
+
+}
+.logo{
+    text-decoration: none;
+    
+    
+    font-family: 'Raleway', sans-serif;
+    
+    color: #000000;
+    
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    
+}
+.logo1{
+    font-family: 'Raleway', sans-serif;
+    color: #2196F3    ;
+    
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+
+}
+.font-navy{
+
+    text-decoration: none;
+   
+
+    color:#212121;
+    
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+.font-navy:hover{
+    
+    text-decoration: none;
+    
+    color:#2196F3;
+    
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+.contact{
+    text-decoration: none;
+    
+    color: #757575;
+    
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+
+}
+.contact:hover{
+    text-decoration: none;
+    
+    color: #2196F3;
+    
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+
+}
+.contact:focus{
+    text-decoration: none;
+    
+    color: #2196F3;
+    
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+
+}
+.h1{
+
+background-color:#2F303A ;
+
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+.button1st{
+font-family:inherit;
+font-weight: 700;
+font-size: 16px;
+line-height: 1.87;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+background-color: #2196F3;
+    color :#FFFFFF;
+    cursor: pointer;
+   
+    
+}
+.adres{
+
+    font-size: 14px;
+    line-height: 1.71; 
+    letter-spacing: 0.03em;
+}
+.tittle1{
+
+color: #212121;
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+.text1{
+
+
+
+    
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+color: #757575;
+
+    
+
+}
+.tittle2{
+
+font-weight: 700;
+font-size: 36px;
+line-height: 1.16;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
+}
+.crew-name{
+
+font-weight: 500;
+font-size: 16px;
+line-height: 1.18;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.crew-job-posiion{
+
+
+font-size: 16px;
+line-height: 1.18;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.button-filtr-portfolio{
+    font-family: inherit;
+
+font-weight: 500;
+font-size: 16px;
+line-height: 1.62;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+cursor: pointer;
+border-radius: 4px;
+background: #F5F4FA;
+
+
+}
+.button-filtr-portfolio:hover{
+    font-family:inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    background-color:#2196F3 ;           
+}
+.button-filtr-portfolio:focus{
+    font-family:inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    background-color:#2196F3 ;           
+}
+.style-list{
+    list-style-type: none;
+
+}
+.portfolio-example{
+
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+color: #212121;
+}
+.portfolio-category{
+
+font-size: 16px;
+line-height: 1.87;
+letter-spacing: 0.03em;
+
+color: #757575;
+    
+
+
+
+}
+
+
+
+
