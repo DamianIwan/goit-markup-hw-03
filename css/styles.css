@@ -231,6 +231,51 @@ color: #757575;
 
 }
 
+.container{
+
+        box-sizing: border-box;
+        display: flex;
+        max-width: 1200px;
+        width: 100%;
+        align-items: center;
+        margin: 0 auto;
+        padding: 0 15px;
+      }
+      .section{
+        padding-top: 94px;
+        padding-bottom: 94px;
+      }
+      .container-heder{
+        display: flex;
+        justify-content: space-between;
+      }
+      .logo-navy{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        
+        
+      }
+      .navy{
+        display: flex;
+        justify-content: space-between;
+     
+        
+        
+        
+    
+      }
+      .h1-grey{
+        display: flex;
+        justify-content:space-around;
+        align-items:center;
+        flex-wrap: wrap;
+        background-color:#2F303A ;
+
+        
+      }
+
 
 
 
