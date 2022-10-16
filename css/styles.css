@@ -294,10 +294,22 @@ color: #757575;
         gap: 30px;
         margin-left: auto;
         padding: 0px;
-        margin: 0px;
-        
-        
-        
+        margin: 0px; 
+    }
+    .text-middle{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    }
+    .what-we-do{ display: flex;
+    
+        justify-content: flex-start;
+        gap: 30px;
+        margin-left: auto;
+        padding: 0px;
+        margin: 0px; 
+
     }
        
         
