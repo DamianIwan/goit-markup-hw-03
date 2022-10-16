@@ -7,27 +7,31 @@ color: #757575;
 
 }
 .logo{
-    text-decoration: none;
-    
-    
-    font-family: 'Raleway', sans-serif;
-    
-    color: #000000;
-    
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.19;
+text-decoration: none;  
+font-family: 'Raleway', sans-serif;  
+color: #000000;  
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
     
 }
 .logo1{
-    font-family: 'Raleway', sans-serif;
-    color: #2196F3    ;
-    
+font-family: 'Raleway', sans-serif;
+color: #2196F3    ; 
 font-weight: 700;
 font-size: 26px;
 line-height: 1.19;
 
 }
+.logo2{
+ text-decoration: none;
+ font-family: 'Raleway', sans-serif;
+ color:  #ffffff  ;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+}
+
 .font-navy{
 
     text-decoration: none;
@@ -52,16 +56,28 @@ line-height: 1.19;
     letter-spacing: 0.02em;
 }
 .contact{
-    text-decoration: none;
-    
-    color: #757575;
-    
+text-decoration: none; 
+color: #757575;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+}
+.contact-footer{
+    text-decoration: none; 
+color: #ffffff;
 font-weight: 500;
 font-size: 14px;
 line-height: 1.14;
 letter-spacing: 0.02em;
 
 }
+
+
+
+
+
+
 .contact:hover{
     text-decoration: none;
     
@@ -119,6 +135,13 @@ background-color: #2196F3;
     line-height: 1.71; 
     letter-spacing: 0.03em;
 }
+
+.adres-footer{
+    font-size: 14px;
+    line-height: 1.71; 
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
 .tittle1{
 
 color: #212121;
@@ -148,6 +171,7 @@ font-size: 36px;
 line-height: 1.16;
 text-align: center;
 letter-spacing: 0.03em;
+margin-bottom: 50px;
 
 color: #212121;
 
@@ -208,6 +232,7 @@ background: #F5F4FA;
 }
 .style-list{
     list-style-type: none;
+    padding: 0px;
 
 }
 .portfolio-example{
@@ -308,13 +333,57 @@ color: #757575;
         gap: 30px;
         margin-left: auto;
         padding: 0px;
-        margin: 0px; 
+        margin: 0px;
+        
+        
+       
 
     }
+    .column-look{
+    flex-direction: column;
+    justify-content: flex-start;
+    
+    }
+       .team-cards{
+        display: flex;
+        gap: 30px;
+       }
+        figure{
+        margin: 0;
+        background: #FFFFFF;
+
+
+box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+border-radius: 0px 0px 4px 4px;
+
+       }
+       .our-crew{
+        background-color: #F5F4FA;
+
+       }
+       .footer-position{
+        display: flex;
+        flex-direction: column;
+       }
+       .footer-position li{
+        margin: 9px;
+   
+    
        
-        
+       }
+
+       footer{
+        background-color: #2F303A;
+
+       }
+       .logo-footer{
+        margin-bottom: 20px;
+
+       }
 
         
+
+         
       
 
 
