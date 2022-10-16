@@ -248,11 +248,13 @@ color: #757575;
       .container-heder{
         display: flex;
         justify-content: space-between;
+        margin-left: 215px;
       }
       .logo-navy{
         display: flex;
         align-items: center;
         justify-content: space-between;
+        margin-left:;
 
         
         
@@ -260,18 +262,26 @@ color: #757575;
       .navy{
         display: flex;
         justify-content: space-between;
+        gap: 46px;
+        margin-left: 93px;
+        
      
         
         
         
     
+      }.header-address{display: flex;
+        justify-content: space-between;
+        gap: 50px;
+        margin-left: 371px;
+        margin-right: 227px;
+        
       }
       .h1-grey{
         display: flex;
-        justify-content:space-around;
-        align-items:center;
-        flex-wrap: wrap;
-        background-color:#2F303A ;
+        justify-content: center;
+        
+        
 
         
       }
